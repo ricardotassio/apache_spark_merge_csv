@@ -1,7 +1,3 @@
-Here's the updated README with the correct file name:
-
----
-
 # Data Difference Calculation with Apache Spark
 
 This project aims to calculate the differences between two CSV datasets using Apache Spark. The script compares specific column values between two CSV files (`pre.csv` and `post.csv`), generates difference columns, and saves the result in a single CSV file.
